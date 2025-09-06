@@ -4,7 +4,7 @@ A multi-agent orchestration project where AI agents collaborate to plan a person
 
 ---
 
-## 🚀 Features  
+## Features  
 - **User Intent Understanding** – Extracts location, duration, budget, and preferences from natural language.  
 - **Flight Agent** – Finds flight options from mock datasets or APIs.  
 - **Hotel Agent** – Suggests hotels based on price, location, and reviews.  
@@ -14,7 +14,7 @@ A multi-agent orchestration project where AI agents collaborate to plan a person
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 ### Frontend  
 - **React.js** → User interface (trip planner dashboard)  
@@ -105,6 +105,3 @@ npm run dev
 - Real flight/hotel API integration  
 
 ---
-
-## 📜 License  
-MIT License – free to use and modify.  
