@@ -31,7 +31,7 @@ A multi-agent orchestration project where AI agents collaborate to plan a person
 
 ---
 
-## 📂 Project Structure  
+## Project Structure  
 ```
 multi-agent-travel-planner/
 │── frontend/           # React + MUI UI
@@ -43,7 +43,7 @@ multi-agent-travel-planner/
 
 ---
 
-## 🔄 Orchestration Flow  
+## Orchestration Flow  
 
 ```mermaid
 sequenceDiagram
@@ -71,7 +71,7 @@ sequenceDiagram
 
 ---
 
-## ⚙️ Setup Instructions  
+## Setup Instructions  
 
 1. **Clone Repo**  
 ```bash
@@ -99,7 +99,7 @@ npm run dev
 
 ---
 
-## 🔮 Future Enhancements  
+## Future Enhancements  
 - Weather Agent for travel date suggestions  
 - Local Transport Agent (cabs, trains)  
 - Real flight/hotel API integration  
